@@ -1,7 +1,7 @@
 # Semana-11.-Tarea-Fundamentos-de-colecciones
 Sistema Avanzado de Gestión de Inventario
 
-Explico.
+Explico el código.
 
 Clase Producto. Define un producto con atributos id, nombre, cantidad, y precio. Incluye métodos para convertir el objeto a un diccionario (to_dict) y para crear un objeto desde un diccionario (from_dict).
 
